@@ -25,12 +25,5 @@ DevOps/Tools:
   </tr>
 </table>
 
-<br>
-
-> **"Intelligence is the ability to adapt to change."**  
-> — Stephen Hawking
-
-<br>
-
-<span style="color:#2980f2"><b>"Intelligence is the ability to adapt to change."</b><br>
-— Stephen Hawking</span>
+ <span style="color:#2980f2"><b>**"Intelligence is the ability to adapt to change."**</b><br>
+ — Stephen Hawking</span>
