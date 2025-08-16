@@ -1,9 +1,3 @@
-# 👋 Hi, I'm Daud Shahbaz
-
-**AI Engineer | Data Scientist | Pattern Finder | Quantitative Finance Enthusiast**
-
-> I explore the patterns hidden within raw data, transforming noise into knowledge.
-
 ---
 
 **OS:** Windows 11 Pro  
