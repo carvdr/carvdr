@@ -22,10 +22,9 @@ DevOps/Tools:
 - GitHub, Google Colab, Excel, Canva
 ```
 
-> “Intelligence is the ability to adapt to change.”  
-> — Stephen Hawking
-
     </td>
+  </tr>
+</table>
 ##
 <br>
 
