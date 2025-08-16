@@ -1,9 +1,10 @@
 <table>
   <tr>
     <td>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHF5eTNzeXNrcXU1YmpnajNsb3lpODR5d2t4aTJnNHNnemY1aHp2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lkceXNDw4Agryfrwz8/giphy.gif" width="250"/>
+    </td>
+    <td>
 
-<!-- Left side: Languages and info -->
-  
 ```
 Languages:
 - Python, SQL, JavaScript
@@ -24,15 +25,7 @@ DevOps/Tools:
 > “Intelligence is the ability to adapt to change.”  
 > — Stephen Hawking
 
-   </td>
-   <td>
-   
-<!-- Right side: GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHF5eTNzeXNrcXU1YmpnajNsb3lpODR5d2t4aTJnNHNnemY1aHp2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lkceXNDw4Agryfrwz8/giphy.gif" width="250"/>
-
-   </td>
-  </tr>
-</table>
+    </td>
 ##
 <br>
 
