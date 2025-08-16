@@ -1,8 +1,12 @@
-![Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHF5eTNzeXNrcXU1YmpnajNsb3lpODR5d2t4aTJnNHNnemY1aHp2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lkceXNDw4Agryfrwz8/giphy.gif)
+<table>
+  <tr>
+    <td>
 
+<!-- Left side: Languages and info -->
+  
 ```
 Languages:
-- Python, SQL, Javascript
+- Python, SQL, JavaScript
 
 Frameworks & Libraries:
 - Pandas, NumPy, Matplotlib, Streamlit
@@ -17,6 +21,18 @@ DevOps/Tools:
 - GitHub, Google Colab, Excel, Canva
 ```
 
+> “Intelligence is the ability to adapt to change.”  
+> — Stephen Hawking
+
+   </td>
+   <td>
+   
+<!-- Right side: GIF -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHF5eTNzeXNrcXU1YmpnajNsb3lpODR5d2t4aTJnNHNnemY1aHp2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lkceXNDw4Agryfrwz8/giphy.gif" width="250"/>
+
+   </td>
+  </tr>
+</table>
 ##
 <br>
 
