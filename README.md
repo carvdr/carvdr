@@ -18,8 +18,7 @@ DevOps/Tools:
 > “Intelligence is the ability to adapt to change.”  
 > — Stephen Hawking
 
-![visitors](https://komarev.com/ghpvc/?username=carvdr&color=radical&style=flat)
-![Quote](https://quotes-github-readme.vercel.app/api?type=dark)
+![visitors](https://komarev.com/ghpvc/?username=carvdr&color=red&style=flat)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carvdr&layout=compact&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://visitcount.itsvg.in/api?id=carvdr&icon=2&color=9)](https://visitcount.itsvg.in)
