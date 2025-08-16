@@ -10,7 +10,7 @@ Languages:
 - Python, SQL, JavaScript
 
 Frameworks & Libraries:
-- Pandas, NumPy, Matplotlib, Streamlit, Seaborn, Requests, Flask                            
+- Pandas, NumPy, Matplotlib, Streamlit, Seaborn, Requests, Flask                          
 
 ML/DL:
 - Scikit-learn, TensorFlow, Keras
