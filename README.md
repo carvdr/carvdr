@@ -1,5 +1,4 @@
-<!-- Custom image or ASCII art -->
-![Custom Image](https://dribbble.com/shots/25309201-CAT-net)
+🎬 [Watch CAT-net animation](https://dribbble.com/shots/25309201-CAT-net)
 
 ```
 OS: Windows 11 Pro
