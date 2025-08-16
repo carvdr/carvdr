@@ -1,8 +1,11 @@
-<p align="left"">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHF5eTNzeXNrcXU1YmpnajNsb3lpODR5d2t4aTJnNHNnemY1aHp2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lkceXNDw4Agryfrwz8/giphy.gif" height="340" align="left" style="margin-right: 24px; margin-bottom: 0;">
-</p>
+<table>
+  <tr>
+    <td valign="top" style="padding-right: 18px;">
+      <img src="YOUR_IMAGE_LINK" height="260">
+    </td>
+    <td valign="top">
 
-```md
+```markdown
 Languages:
 - Python, SQL, JavaScript
 
@@ -18,10 +21,7 @@ Databases:
 DevOps/Tools:
 - GitHub, Google Colab, Excel, Canva
 ```
-##
-<br>
 
-  > **"Intelligence is the ability to adapt to change."**  
-  > — Stephen Hawking
-
-<br>
+    </td>
+  </tr>
+</table>
