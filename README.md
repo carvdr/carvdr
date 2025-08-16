@@ -1,8 +1,8 @@
 <p align="left"">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHF5eTNzeXNrcXU1YmpnajNsb3lpODR5d2t4aTJnNHNnemY1aHp2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lkceXNDw4Agryfrwz8/giphy.gif" width="250" align="left" style="margin-right: 25px;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHF5eTNzeXNrcXU1YmpnajNsb3lpODR5d2t4aTJnNHNnemY1aHp2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lkceXNDw4Agryfrwz8/giphy.gif" height="150" width="250" align="left" style="margin-right: 25px;">
 </p>
 
-```
+```md
 Languages:
 - Python, SQL, JavaScript
 
@@ -23,5 +23,13 @@ DevOps/Tools:
 
       **“Intelligence is the ability to adapt to change.”**
       — Stephen Hawking
+
+<br>
+
+##
+<br>
+
+  > **"Intelligence is the ability to adapt to change."**  
+  > — Stephen Hawking
 
 <br>
