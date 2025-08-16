@@ -1,12 +1,6 @@
-<table>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHF5eTNzeXNrcXU1YmpnajNsb3lpODR5d2t4aTJnNHNnemY1aHp2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lkceXNDw4Agryfrwz8/giphy.gif" width="250"/><br>
-      <br>
-      <em>“Intelligence is the ability to adapt to change.”<br>
-      — Stephen Hawking</em>
-    </td>
-    <td valign="top">
+<p align="left"">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHF5eTNzeXNrcXU1YmpnajNsb3lpODR5d2t4aTJnNHNnemY1aHp2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lkceXNDw4Agryfrwz8/giphy.gif" width="270" align="left" style="margin-right: 20px;">
+</p>
 
 ```
 Languages:
@@ -27,10 +21,10 @@ DevOps/Tools:
 
 <br>
 
+      “Intelligence is the ability to adapt to change.”
+      — Stephen Hawking
 
-    </td>
-  </tr>
-</table>
+<br>
 
 
 ![visitors](https://komarev.com/ghpvc/?username=carvdr&color=red&style=flat)
