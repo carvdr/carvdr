@@ -1,5 +1,5 @@
-<!-- Optionally add an image or ASCII art here -->
-![Your custom image or ASCII art]([https://your-image-link.com](https://dribbble.com/shots/25309201-CAT-net))
+<!-- Custom image or ASCII art -->
+![Custom Image](https://dribbble.com/shots/25309201-CAT-net)
 
 ```
 OS: Windows 11 Pro
