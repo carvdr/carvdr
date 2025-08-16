@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Daud Shahbaz
 
-<!--
-**carvdr/carvdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer | Data Scientist | Pattern Finder | Quantitative Finance Enthusiast**
 
-Here are some ideas to get you started:
+Welcome to my GitHub!  
+I’m passionate about building intelligent systems, analyzing data, and solving real-world problems at the intersection of technology, finance, and neuroscience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **[Project Name 1](#)**: Short description of your top project.
+- **[Project Name 2](#)**: Another key project or portfolio highlight.
+- **[Project Name 3](#)**: Add more as needed!
+
+## 🛠️ Skills & Tools
+- Python, Pandas, NumPy, Matplotlib, Streamlit
+- Machine Learning, Data Analysis, Financial Modeling
+- Research, Visualization, Communication
+
+## 🌱 About Me
+- ASC 2025 Thailand Delegate
+- BS Computer Science @ COMSATS Islamabad
+- STEM-ED Fellow at NASTP
+- Always learning, always curious
+
+## 📫 Connect
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- [Portfolio/Website](https://your-website.com)
+
+---
+
+> “while(alive) { stay_curious(); try_everything(); be_happy(); }”
