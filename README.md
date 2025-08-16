@@ -10,16 +10,16 @@ Languages:
 - Python, SQL, JavaScript
 
 Frameworks & Libraries:
-- Pandas, NumPy, Matplotlib, Streamlit
+- Pandas, NumPy, Matplotlib, Streamlit, Seaborn, Requests, Flask, 
 
 ML/DL:
-- Scikit-learn, TensorFlow (basics)
+- Scikit-learn, TensorFlow, Keras
 
 Databases:
-- SQLite, MySQL (basics)
+- SQLite, MySQL, MongoDB
 
 DevOps/Tools:
-- GitHub, Google Colab, Excel, Canva
+- GitHub, Power BI, Excel, Canva
 ```
 
   </tr>
