@@ -6,10 +6,11 @@ Analyze Data, Find Patterns, Build Algorithms, Train Models, Measure Intelligenc
 
 ```md
 Languages:
-- Python, SQL, JavaScript
+- Python, SQL, R, JavaScript
 
 Frameworks & Libraries:
-- Pandas, NumPy, Matplotlib, Streamlit, Seaborn, Requests, Flask
+- NumPy, Pandas, Matplotlib, SciPy, Seaborn, Requests, Flask, Streamlit
+
 ML/DL:
 - Scikit-learn, TensorFlow, Keras
 
@@ -17,8 +18,7 @@ Databases:
 - SQLite, MySQL, MongoDB
 
 DevOps/Tools:
-- GitHub, Power BI, Excel, Canva
-```
+- Docker, Linux, Git, Jupyter, Power BI, Excel
 
 <span style="color:#2980f2"><b>**"The Measure of Intelligence is The Ability to Change"**</b><br>
 — Albert Einstein</span>
