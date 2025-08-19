@@ -20,5 +20,7 @@ Databases:
 DevOps/Tools:
 - Docker, Linux, Git, Jupyter, Power BI, Excel
 
+```
+
 <span style="color:#2980f2"><b>**"The Measure of Intelligence is The Ability to Change"**</b><br>
 — Albert Einstein</span>
