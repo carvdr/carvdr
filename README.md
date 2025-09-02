@@ -12,7 +12,7 @@ Frameworks & Libraries:
 - NumPy, Pandas, Matplotlib, SciPy, Seaborn, Requests, Flask, Streamlit
 
 ML/DL:
-- Scikit-learn, TensorFlow, Keras
+- Scikit-learn, Pytorch, TensorFlow, Keras
 
 Databases:
 - SQLite, MySQL, MongoDB
