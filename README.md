@@ -6,7 +6,7 @@ Analyze Data, Find Patterns, Build Algorithms, Train Models, Measure Intelligenc
 
 ```md
 Languages:
-- Python, SQL, R, JavaScript
+- Python, SQL, R, JavaScript, Java
 
 Frameworks & Libraries:
 - NumPy, Pandas, Matplotlib, SciPy, Seaborn, Requests, Flask, Streamlit
